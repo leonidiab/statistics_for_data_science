@@ -6,6 +6,7 @@
   - Simple Random Sampling
   - Systematic Sampling
   - Group Sampling
+  - Stratified Sampling
 
 # Estatísticas para Ciência de Dados
 - Uma biblioteca Python com algumas implementações de amostragem aplicadas a estatísticas.
@@ -15,4 +16,5 @@
   - Amostragem Aleatória Simples
   - Amostragem Sistemática
   - Amostragem por Grupos
+  - Amostragem Estratificada
   
