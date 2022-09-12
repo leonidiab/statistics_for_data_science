@@ -7,6 +7,7 @@
   - Systematic Sampling
   - Group Sampling
   - Stratified Sampling
+  - Reservoir Sampling
 
 # Estatísticas para Ciência de Dados
 - Uma biblioteca Python com algumas implementações de amostragem aplicadas a estatísticas.
@@ -17,4 +18,5 @@
   - Amostragem Sistemática
   - Amostragem por Grupos
   - Amostragem Estratificada
+  - Amostragem de Reservatório
   
